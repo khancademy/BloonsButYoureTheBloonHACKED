@@ -7,5 +7,7 @@ Replace Assembly-CSharp.dll with the new Assembly-CSharp.dll
 
 Launch Game!
 
-# Tools Used To Hack:
+Have Fun!!
+
+# Tools Used:
 dnSpy: https://github.com/dnSpy/dnSpy
